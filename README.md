@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**fabiana-pires-fernandez/fabiana-pires-fernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Fabiana Pires Fernandez<h3>
+<br>
+:arrow_right: Bacharel em Engenharia da Computação [cursando]; 
+<br>
+:arrow_right: Técnica em Mecânica;
+<br>
+:arrow_right: Aprendendo JavaScript;
+<br>
+<br>
+<br>
+<br>
+<br>  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+< :hearts: Feito por Fabiana Pires Fernandez :hearts: />
