@@ -8,7 +8,9 @@
 <a href="https://t.me/fabianapiresfernandez"><img src="https://img.shields.io/badge/Telegram-gray"> </a>
 </div>
 <br>
-:computer: Estudos em programação atuais: JavaScript [e suas bibliotecas, frameworks e etc], html e css; 
+:computer: Estudo em programação atual: JavaScript [e suas bibliotecas, frameworks e etc]; 
+<br>
+:computer: Html e css; 
 <br>
 :books: Bacharel em Engenharia da Computação [cursando][EAD]; 
 <br>
