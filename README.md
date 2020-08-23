@@ -10,7 +10,7 @@
 <br>
 :computer: Estudo em programação atual: JavaScript [e suas bibliotecas, frameworks e etc]; 
 <br>
-:computer: Html e css; 
+:computer: Outros estudos: html, css, git, github, responsividade; 
 <br>
 :books: Bacharel em Engenharia da Computação [cursando][EAD]; 
 <br>
